@@ -1,0 +1,9 @@
+[submodule "lib/forge-std"]
+	path = lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "lib/svgmate"]
+	path = lib/svgmate
+	url = https://github.com/rectangle-factory/svgmate
+[submodule "lib/inspector"]
+	path = lib/inspector
+	url = https://github.com/rectangle-factory/inspector

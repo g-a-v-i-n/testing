@@ -1,0 +1,2 @@
+watch_folder = "src"
+deploy_render_script = "deploy_render"
